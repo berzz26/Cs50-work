@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void)
+int main()
 {
     int rows = 4;
 
